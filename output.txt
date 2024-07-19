@@ -1,0 +1,13 @@
+Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\HP\Downloads\Password-Generator-in-python-master\Password-Generator-in-python-master\Password Generator.py
+How many passwords do you want to generate? 3
+Generating 3 passwords
+Minimum length of password should be 3
+Enter the length of Password #1 5
+Enter the length of Password #2 4
+Enter the length of Password #3 2
+Password #1 = g2lrI
+Password #2 = 4hOw
+Password #3 = 7eS
